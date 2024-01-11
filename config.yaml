@@ -57,7 +57,7 @@ outputFormats:
     baseName: feed
 
 params:
-  description: Buzee
+  description: "A search app for regular people. Find your docs, effortlessly."
   favicon: true
   divider: \2500\2500\2500
   footer: Copyright © 2024 Buzilla Inc.
