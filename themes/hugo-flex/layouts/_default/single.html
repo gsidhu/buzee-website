@@ -1,0 +1,10 @@
+{{ define "main" }}
+
+  <article class="py-5 px-lg-5">
+    {{ partial "heading.html" . }}
+    {{ .Content }}
+    {{ partial "tags.html" . }}
+    {{ partial "comments.html" . }}
+  </article>
+
+{{ end }}

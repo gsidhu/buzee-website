@@ -1,0 +1,79 @@
+baseURL: https://buzee.app
+title: Buzee
+copyright: Copyright © 2024 Buzilla Inc.
+paginate: 3
+languageCode: en
+theme: hugo-flex
+DefaultContentLanguage: en
+enableInlineShortcodes: true
+ignoreErrors:
+  - error-remote-getjson
+
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+
+outputs:
+  section:
+    - html
+  taxonomy:
+    - html
+  term:
+    - html
+
+outputFormats:
+  RSS:
+    mediatype: application/rss+xml
+    baseName: feed
+
+params:
+  description: Buzee site.
+  favicon: true
+  divider: \2500\2500\2500
+  footer: Copyright © 2024 Buzilla Inc.
+  noClasses: false
+  katex: ""
+  linkicons: hover
+  css:
+    - css/emojify.css
+    - css/nowrap.css
+  author:
+    name: Buzee
+
+menu:
+  main:
+    - name: Download
+      pageRef: /download
+      weight: 1
+    - name: Learn More
+      pageRef: /learn-more
+      weight: 2

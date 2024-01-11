@@ -1,0 +1,18 @@
+{{ $parentid := .Get "parentid" }}
+{{ $childid := .Get "childid" }}
+{{ $class := .Get "class" }}
+{{ $details := .Get "details"  }}
+{{ $summary := .Get "summary"  }}
+
+<div class="accordion-item">
+  <h2 class="accordion-header">
+    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#{{ $childid }}" aria-expanded="true" aria-controls="{{ $childid }}">
+      {{ $summary }}
+    </button>
+  </h2>
+  <div id="{{ $childid }}" class="accordion-collapse collapse" data-bs-parent="{{ $parentid }}">
+    <div class="accordion-body">
+      {{ $details }}
+    </div>
+  </div>
+</div>
