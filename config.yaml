@@ -1,10 +1,11 @@
-baseURL: https://buzee.app
+baseURL: https://buzee.co
 title: Buzee
 copyright: Copyright © 2024 Buzilla Inc.
 paginate: 3
 languageCode: en
 theme: hugo-flex
 DefaultContentLanguage: en
+publishDir: docs
 enableInlineShortcodes: true
 ignoreErrors:
   - error-remote-getjson
@@ -56,7 +57,7 @@ outputFormats:
     baseName: feed
 
 params:
-  description: Buzee site.
+  description: Buzee
   favicon: true
   divider: \2500\2500\2500
   footer: Copyright © 2024 Buzilla Inc.
