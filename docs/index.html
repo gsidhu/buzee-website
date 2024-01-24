@@ -1,6 +1,317 @@
-<!doctype html><html lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="A search app for regular people. Find your docs, effortlessly."><meta name=color-scheme content="light"><meta og:image=https://buzee.co/images/meta-header.png property="og:image" content="https://buzee.co/images/meta-header.png"><meta og:site_name=Buzee property="og:site_name" content="Buzee"><meta name=generator content="Hugo 0.121.2"><title>Buzee</title>
-<link rel=canonical href=https://buzee.co/><link rel=icon href=/favicon.ico type=image/x-icon><link rel=alternate href=/feed.xml type=application/rss+xml><script data-goatcounter=https://buzee-site.goatcounter.com/count async src=//gc.zgo.at/count.js></script><link href=/bootstrap/bootstrap.min.css rel=stylesheet><link href=/bootstrap/bootstrap-icons.min.css rel=stylesheet><script src=/bootstrap/bootstrap.bundle.min.js></script><link rel=stylesheet href=/css/base.min.f5d0c672b410fd9a4dee223aa18edd97670e3d1716d4a92b5058d380f82fdd17.css integrity="sha256-9dDGcrQQ/ZpN7iI6oY7dl2cOPRcW1KkrUFjTgPgv3Rc=" crossorigin=anonymous></head><body><nav class=u-background><div class=container><ul class=Banner><li class="Banner-item Banner-item--title"><a class="Banner-link u-clickable" href=/><img src=/images/buzee.png alt="Buzee Logo" draggable=false class=banner-site-logo>
-Buzee</a></li><li class=Banner-item><a class="Banner-link u-clickable" href=/download/>Download</a></li><li class=Banner-item><a class="Banner-link u-clickable" href=/learn-more/>Learn More</a></li></ul></div></nav><div id=gradient></div><main class=container><link href=/subscribe.css rel=stylesheet><section id=lead class="row row-cols-1 row-cols-lg-2 mx-auto py-5 mt-5 px-lg-5"><div class="col mx-auto my-auto"><div class=px-3><h1 class=text-start>Buzee</h1><h5 class="mb-4 tracking-tight text-secondary-emphasis fw-normal">Find your docs, effortlessly</h5></div><div class="my-5 py-3"><p class="text-center mb-3 fw-medium md:text-lg"><strong>Download now</strong></p><div class="d-flex justify-content-center align-items-center mb-3"><a href=#><button type=button class="btn btn-lg purple btn-outline-primary rounded-pill me-2 bi-apple">&nbsp;Mac</button>
-</a><a href=#><button type=button class="btn btn-lg purple btn-outline-primary rounded-pill me-2 bi-microsoft">&nbsp;Windows</button></a></div><div class=text-center><a href=/download>More platforms</a></div></div><div class="col-10 col-sm-8 mx-auto small opacity-75 gap-2 mb-5"><div><p class="text-start mb-0"><em>"It just works"</em></p><p class=text-center>— You, soon</p></div><div><p class="text-start mb-0"><em>"Saved my life"</em></p><p class=text-center>— Your colleagues, after that</p></div></div></div><div class="col my-auto"><div id=app-screenshot class="d-flex flex-column justify-content-center align-items-center"><img src=./images/app-screenshot.png alt class="w-100 rounded shadow" draggable=false></div></div></section><section id=complaint class="row py-5 px-lg-5"><div class="col-10 mx-auto py-5 text-center"><h2 class="mb-4 tracking-tight sm:text-4xl">Searching on your computer is TEDIOUS</h2><div class="row row-cols-1 row-cols-md-3"><div class=col><h4>It is SLOW</h4><p>“My computer hangs every single time I click the search bar”</p></div><div class=col><h4>It is mostly IRRELEVANT</h4><p>“The search results are a mishmash of random documents”</p></div><div class=col><h4>It takes too much EFFORT</h4><p>“I have to meticulously organise my folders, and yet, search sucks”</p></div></div></div></section><section id=features class="mx-auto py-5 px-lg-5"><div class="row row-cols-1 row-cols-lg-2 mx-auto py-5"><div class="col col-lg-4 mx-auto my-auto px-lg-5 mb-4"><h2 class=mb-4>Finally, a search app for regular people</h2><div class=mb-4><p>Buzee has two purposes:</p><ul><li>Find the document you need, when you need it</li><li>Sit quietly by your side, ready to help when called</li></ul></div></div><div class="col col-lg-8"><div class="row row-cols-1 row-cols-md-2"><div class="col text-center mb-3"><div><img src=./images/superfast.png alt="Lightning bolt" draggable=false class=features-image></div><h4 class=mb-2>Superfast</h4><p class="text-sm text-gray-700">Quick search, always ready to go</p></div><div class="col text-center mb-3"><div><img src=./images/seamless.png alt="Lightning bolt" draggable=false class=features-image></div><h4 class=mb-2>Seamless</h4><p class="text-sm text-gray-700">Install in 1-click, then search from anywhere on your computer</p></div><div class="col text-center mb-3"><div><img src=./images/smart.png alt="Lightning bolt" draggable=false class=features-image></div><h4 class=mb-2>Smart</h4><p class="text-sm text-gray-700">Get relevant search results only, no distractions</p></div><div class="col text-center mb-3"><div><img src=./images/secure.png alt="Lightning bolt" draggable=false class=features-image></div><h4 class=mb-2>Secure</h4><p class="text-sm text-gray-700">Your data never leaves your computer</p></div></div></div></div></section><section id=sign-up class="row py-5 px-lg-5"><div class="col col-md-8 col-lg-6 mx-auto text-center mb-5"><h2 class=mb-4>Stay in touch</h2><p class="text-gray-700 mb-4 md:text-lg">Want to keep up with our app updates? Sign up below!</p><div class="card py-5 px-3"><div class=flex-subscribe style="margin:.5rem 0"><input id=subscriber-email type=email name=subscriber[email_address] placeholder="Type your email…" required class=input style=line-height:normal>
-<button class=subscribe-button onclick=addSubscriber()>
-<span id=subscribe-button>Sign up</span><div id=heartbeat class="lds-heart d-none"><div></div></div></button></div><span id=submission-text class="d-none text-center">Cheers! See you soon.</span></div></div></section><script>function addSubscriber(){var t,e=document.getElementById("subscriber-email").value;if(e.length===0)return!0;t="https://api.chachi.app/buzo/acus/new_subscriber/"+e,document.getElementById("subscriber-email").value="",document.getElementById("subscribe-button").classList.add("d-none"),document.getElementById("heartbeat").classList.remove("d-none"),fetch(t,{method:"POST"}).then(e=>e.json()).then(e=>{e&&setTimeout(function(){heartLoader()},1e3)}).catch(e=>{document.getElementById("submission-text").innerText=":( That didn't work. Refresh and try again?",document.getElementById("submission-text").classList.remove("d-none"),console.log(e)})}function heartLoader(){document.getElementById("submission-text").classList.remove("d-none"),document.getElementById("subscriber-email").disabled=!0,document.getElementById("heartbeat").classList.remove("lds-heart"),document.getElementById("heartbeat").textContent="♥",document.getElementById("heartbeat").style.color="#b20101"}</script></main><footer class=Footer><div class=u-wrapper><div class="u-padding u-noboosting">Copyright © 2024 Buzilla Inc.</div></div></footer></body></html>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+  <meta charset="utf-8">
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  
+    
+      <meta name="description" content="A search app for regular people. Find your docs, effortlessly.">
+    
+  
+
+
+<meta name="color-scheme" content="light">
+
+<meta og:image="https://buzee.co/images/meta-header.png" property="og:image" content="https://buzee.co/images/meta-header.png">
+<meta og:site_name="Buzee" property="og:site_name" content="Buzee">
+
+
+
+
+
+
+
+<meta name="generator" content="Hugo 0.121.2">
+  <title>Buzee</title>
+  <link rel="canonical" href="https://buzee.co/">
+
+
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+
+  <link rel="alternate" href="/feed.xml" type="application/rss+xml">
+
+  
+
+
+
+
+  
+  
+    
+    
+  
+    
+    
+  
+  
+
+
+
+
+
+
+<script data-goatcounter="https://buzee-site.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+<link href="/bootstrap/bootstrap.min.css" rel="stylesheet">
+<link href="/bootstrap/bootstrap-icons.min.css" rel="stylesheet">
+<script src="/bootstrap/bootstrap.bundle.min.js"></script>
+  
+    
+  
+  
+  <link rel="stylesheet" href="/css/base.min.f5d0c672b410fd9a4dee223aa18edd97670e3d1716d4a92b5058d380f82fdd17.css" integrity="sha256-9dDGcrQQ/ZpN7iI6oY7dl2cOPRcW1KkrUFjTgPgv3Rc=" crossorigin="anonymous">
+
+
+
+</head>
+
+<body>
+  <nav class="u-background">
+  <div class="container">
+    <ul class="Banner">
+      <li class="Banner-item Banner-item--title">
+        <a class="Banner-link u-clickable" href="/">
+          <img src="/images/buzee.png" alt="Buzee Logo" draggable="false" class="banner-site-logo">
+          Buzee
+        </a>
+      </li>
+      
+        
+        
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/download/">Download</a>
+        </li>
+      
+        
+        
+        <li class="Banner-item">
+          <a class="Banner-link u-clickable" href="/learn-more/">Learn More</a>
+        </li>
+      
+    </ul>
+  </div>
+</nav>
+
+  <div id="gradient"></div>
+  <main class="container">
+    
+<link href="/subscribe.css" rel="stylesheet">
+
+
+<section id="lead" class="row row-cols-1 row-cols-lg-2 mx-auto py-5 mt-5 px-lg-5">
+  <div class="col mx-auto my-auto">
+    <div class="px-3">
+      <h1 class="text-start">
+        Buzee
+      </h1>
+      <h5 class="mb-4 tracking-tight text-secondary-emphasis fw-normal">
+        Find your docs, effortlessly
+      </h5>
+    </div>
+    <div class="my-5 py-3">
+      <p class="text-center mb-3 fw-medium md:text-lg">
+        <strong>Download now</strong>
+      </p>
+      <div class="d-flex justify-content-center align-items-center mb-3">
+        <a href="/download#buzee-for-mac" type="button" class="btn btn-lg purple btn-outline-primary rounded-pill me-2 bi-apple">&nbsp;Mac</a>
+        <a href="/download#buzee-for-windows" type="button" class="btn btn-lg purple btn-outline-primary rounded-pill me-2 bi-microsoft">&nbsp;Windows</a>
+      </div>
+    </div>
+    <div class="col-10 col-sm-8 mx-auto small opacity-75 gap-2 mb-5">
+      <div class="">
+        <p class="text-start mb-0"><em>"It just works"</em></p>
+        <p class="text-center">— You, soon</p>
+      </div>
+      <div class="">
+        <p class="text-start mb-0"><em>"Saved my life"</em></p>
+        <p class="text-center">— Your colleagues, after that</p>
+      </div>
+    </div>
+  </div>
+  <div class="col my-auto">
+    <div id="app-screenshot" class="d-flex flex-column justify-content-center align-items-center">
+      <img src="./images/app-screenshot.png" alt="" class="w-100 rounded shadow" draggable="false">
+    </div>
+  </div>      
+</section>
+
+
+<section id="complaint" class="row py-5 px-lg-5">
+  <div class="col-10 mx-auto py-5 text-center">
+    <h2 class="mb-4 tracking-tight sm:text-4xl">
+      Searching on your computer is TEDIOUS
+    </h2>
+    <div class="row row-cols-1 row-cols-md-3">
+      <div class="col">
+        <h4>It is SLOW</h4>
+        <p>“My computer hangs every single time I click the search bar”</p>
+      </div>
+      <div class="col">
+        <h4>It is mostly IRRELEVANT</h4>
+        <p>“The search results are a mishmash of random documents”</p>
+      </div>
+      <div class="col">
+        <h4>It takes too much EFFORT</h4>
+        <p>“I have to meticulously organise my folders, and yet, search sucks”</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section id="features" class="mx-auto py-5 px-lg-5">
+  <div class="row row-cols-1 row-cols-lg-2 mx-auto py-5">
+    <div class="col col-lg-4 mx-auto my-auto px-lg-5 mb-4">
+      <h2 class="mb-4">
+        Finally, a search app for regular people
+      </h2>
+      <div class="mb-4">
+        <p>Buzee has two purposes:</p>
+        <ul>
+          <li>Find the document you need, when you need it</li>
+          <li>Sit quietly by your side, ready to help when called</li>
+        </ul>
+      </div>
+    </div>
+    <div class="col col-lg-8">
+      <div class="row row-cols-1 row-cols-md-2">
+        <div class="col text-center mb-3">
+          <div class="">
+            <img src="./images/superfast.png" alt="Lightning bolt" draggable="false" class="features-image">
+          </div>
+          <h4 class="mb-2">
+            Superfast
+          </h4>
+          <p class="text-sm text-gray-700">
+            Quick search, always ready to go
+          </p>
+        </div>
+        <div class="col text-center mb-3">
+          <div
+            class=""
+          >
+            <img src="./images/seamless.png" alt="Lightning bolt" draggable="false" class="features-image">
+          </div>
+          <h4 class="mb-2">
+            Seamless
+          </h4>
+          <p class="text-sm text-gray-700">
+            Install in 1-click, then search from anywhere on your computer
+          </p>
+        </div>
+        <div class="col text-center mb-3">
+          <div
+            class=""
+          >
+           <img src="./images/smart.png" alt="Lightning bolt" draggable="false" class="features-image">
+          </div>
+          <h4 class="mb-2">
+            Smart
+          </h4>
+          <p class="text-sm text-gray-700">
+            Get relevant search results only, no distractions
+          </p>
+        </div>
+        <div class="col text-center mb-3">
+          <div
+            class=""
+          >
+            <img src="./images/secure.png" alt="Lightning bolt" draggable="false" class="features-image">
+          </div>
+          <h4 class="mb-2">
+            Secure
+          </h4>
+          <p class="text-sm text-gray-700">
+            Your data never leaves your computer
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section id="sign-up" class="row py-5 px-lg-5">
+  <div class="col col-md-8 col-lg-6 mx-auto text-center mb-5">
+    <h2 class="mb-4">
+      Stay in touch
+    </h2>
+    <p class="text-gray-700 mb-4 md:text-lg">
+      Want to keep up with our app updates? Sign up below!
+    </p>
+    <div class="card py-5 px-3">
+      <div class="flex-subscribe" style="margin: 0.5rem 0">
+        <input id="subscriber-email" type="email" name="subscriber[email_address]" placeholder="Type your email…" required="" class="input" style="line-height: normal;">
+        <button class="subscribe-button" onclick="addSubscriber()">
+          <span id="subscribe-button">Sign up</span>
+          <div id="heartbeat" class="lds-heart d-none"><div></div></div>
+        </button>
+      </div>
+      <span id="submission-text" class="d-none text-center">
+        Cheers! See you soon.
+      </span>
+    </div>
+  </div>
+</section>
+
+<script>
+  function addSubscriber() {
+    var email = document.getElementById("subscriber-email").value;
+
+    
+    if (email.length === 0) {
+      return true;
+    }
+
+    var api_link =
+      "https://api.chachi.app/buzo/acus/new_subscriber/" + email;
+    document.getElementById("subscriber-email").value = "";
+    document.getElementById("subscribe-button").classList.add("d-none");
+    document.getElementById("heartbeat").classList.remove("d-none");
+    fetch(api_link, {
+      method: 'POST',
+    })
+    .then(response => response.json())
+    .then(data => {
+      if (data) {
+        setTimeout(function () {
+          heartLoader();
+        }, 1000);
+      }
+    })
+    .catch((err) => {
+      document.getElementById("submission-text").innerText = ":( That didn't work. Refresh and try again?";
+      document.getElementById("submission-text").classList.remove("d-none");
+      console.log(err);
+    });
+  }
+
+  function heartLoader() {
+    document.getElementById("submission-text").classList.remove("d-none");
+    document.getElementById("subscriber-email").disabled = true;
+    document.getElementById("heartbeat").classList.remove("lds-heart");
+    document.getElementById("heartbeat").textContent = "♥";
+    document.getElementById("heartbeat").style.color = "#b20101";
+  }
+</script>
+
+  </main>
+  
+  <footer class="Footer">
+    <div class="u-wrapper">
+      <div class="u-padding u-noboosting">
+        Copyright © 2024 Buzilla Inc.
+      </div>
+    </div>
+  </footer>
+
+</body>
+
+</html>
