@@ -6,6 +6,8 @@ tags = ["learn-more"]
 layout = "single"
 +++
 
+See [Tips and Shortcuts](./tips) for some useful tips and keyboard shortcuts.
+
 ### FAQs
 <div class="accordion my-4" id="faqs">
   {{% detail parentid="faqs" childid="what-is" summary="What is Buzee?" details="Buzee is the best boy!" %}}

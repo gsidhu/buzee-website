@@ -217,6 +217,11 @@ kbd:has(kbd) {
   margin: 1rem 0;
 }
 
+.footer-link {
+  color: gray;
+  text-decoration: none;
+}
+
 .u-wrapper {
   {{ with site.Params.width }}max-width: {{ . }};{{ end }}
   margin: auto;
