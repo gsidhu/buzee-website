@@ -19,6 +19,8 @@
   </url><url>
     <loc>https://buzee.co/download/</loc>
   </url><url>
+    <loc>https://buzee.co/feedback/</loc>
+  </url><url>
     <loc>https://buzee.co/learn-more/</loc>
   </url><url>
     <loc>https://buzee.co/tags/learn-more/</loc>
@@ -26,5 +28,7 @@
     <loc>https://buzee.co/series/</loc>
   </url><url>
     <loc>https://buzee.co/tags/</loc>
+  </url><url>
+    <loc>https://buzee.co/learn-more/tips/</loc>
   </url>
 </urlset>
