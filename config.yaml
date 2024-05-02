@@ -75,6 +75,9 @@ menu:
     - name: Download
       pageRef: /download
       weight: 1
-    - name: Learn More
-      pageRef: /learn-more
+    - name: Docs
+      pageRef: /docs
       weight: 2
+    - name: Blog
+      pageRef: /posts
+      weight: 3
