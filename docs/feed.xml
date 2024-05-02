@@ -8,20 +8,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2024 Buzilla Inc.</copyright>
+    <lastBuildDate>Wed, 01 May 2024 21:51:26 +0530</lastBuildDate>
     <atom:link rel="self" href="https://buzee.co/feed.xml" type="application/rss+xml" />
     <item>
+      <title>Getting Started with Buzee</title>
+      <link>https://buzee.co/docs/getting-started/</link>
+      <pubDate>Wed, 01 May 2024 21:51:26 +0530</pubDate>
+      <guid>https://buzee.co/docs/getting-started/</guid>
+      <description>&lt;p&gt;Before we begin, thank you for trying out Buzee! We are excited to hear how Buzee is helping you.&lt;/p&gt;
+&lt;p&gt;The first step to getting started with Buzee is to download and install it on your computer. You can download Buzee for &lt;a href=&#34;https://buzee.co/download#buzee-for-mac&#34;&gt;Mac&lt;/a&gt; or &lt;a href=&#34;https://buzee.co/download#buzee-for-windows&#34;&gt;Windows&lt;/a&gt; from this website.&lt;/p&gt;
+
+&lt;h5 id=&#34;_full-guide-coming-soon_&#34; class=&#34;pt-2&#34;&gt;
+  
+    &lt;em&gt;Full Guide Coming Soon&lt;/em&gt;
+  
+&lt;/h5&gt;&lt;p&gt;♥️&lt;/p&gt;
+</description>
+    </item>
+    <item>
       <title>Tips and Shortcuts</title>
-      <link>https://buzee.co/learn-more/tips/</link>
-      <guid>https://buzee.co/learn-more/tips/</guid>
-      <description>&lt;h5 id=&#34;keeping-buzee-updated&#34; class=&#34;pt-2&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://buzee.co/learn-more/tips/#keeping-buzee-updated&#34;&gt;Keeping Buzee Updated&lt;/a&gt;
-&lt;/h5&gt;
-&lt;p&gt;Buzee automatically syncs data from your computer. You can always click the &lt;code&gt;Sync&lt;/code&gt; button in the status bar at the bottom to run it manually.&lt;/p&gt;
+      <link>https://buzee.co/docs/tips/</link>
+      <guid>https://buzee.co/docs/tips/</guid>
+      <description>
+&lt;h5 id=&#34;keeping-buzee-updated&#34; class=&#34;pt-2&#34;&gt;
+  
+    Keeping Buzee Updated
+  
+&lt;/h5&gt;&lt;p&gt;Buzee automatically syncs data from your computer. You can always click the &lt;code&gt;Sync&lt;/code&gt; button in the status bar at the bottom to run it manually.&lt;/p&gt;
 &lt;p&gt;By default, Buzee scans files in your Documents, Downloads and Desktop folders. You can add more documents to search in Buzee using the &lt;code&gt;Add Documents&lt;/code&gt; option in the &lt;a href=&#34;https://buzee.co/settings&#34;&gt;Settings&lt;/a&gt;.&lt;/p&gt;
+
 &lt;h5 id=&#34;keyboard-shortcuts&#34; class=&#34;pt-2&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://buzee.co/learn-more/tips/#keyboard-shortcuts&#34;&gt;Keyboard Shortcuts&lt;/a&gt;
-&lt;/h5&gt;
-&lt;ul&gt;
+  
+    Keyboard Shortcuts
+  
+&lt;/h5&gt;&lt;ul&gt;
 &lt;li&gt;Press &lt;code&gt;⌘/Ctrl + Space&lt;/code&gt; anywhere to show/hide the app&lt;/li&gt;
 &lt;li&gt;In the app, press &lt;code&gt;⌘/Ctrl + F&lt;/code&gt; to go the search bar&lt;/li&gt;
 &lt;li&gt;Press &lt;code&gt;Enter&lt;/code&gt; on a selected row to open the document&lt;/li&gt;
@@ -34,17 +54,21 @@
 &lt;li&gt;On a Mac, you can either click the Menubar icon at the top of your screen, or right-click the app’s icon in the Dock and choose &lt;code&gt;Options &amp;gt; Keep in Dock&lt;/code&gt;.&lt;/li&gt;
 &lt;li&gt;On Windows, right-click the app’s icon in the Taskbar and then choose &lt;code&gt;Pin to Taskbar&lt;/code&gt;. You can also make the &lt;a href=&#34;https://support.microsoft.com/en-us/windows/how-to-use-the-taskbar-in-windows-0657a50f-0cc7-dbfd-ae6b-05020b195b07#ID0ERBBBBDDD-button&#34;&gt;app icon show in the system tray&lt;/a&gt; from Windows settings.&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;h5 id=&#34;includeexclude-from-search&#34; class=&#34;pt-2&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://buzee.co/learn-more/tips/#includeexclude-from-search&#34;&gt;Include/Exclude from Search&lt;/a&gt;
-&lt;/h5&gt;
-&lt;ul&gt;
+  
+    Include/Exclude from Search
+  
+&lt;/h5&gt;&lt;ul&gt;
 &lt;li&gt;Put quotes around keyword(s) to search for the exact phrase (like &lt;code&gt;&amp;quot;annual report&amp;quot;&lt;/code&gt;)&lt;/li&gt;
 &lt;li&gt;Put a hyphen in front of the keyword to exclude it from search (like &lt;code&gt;&amp;quot;annual report&amp;quot; -2022 -pdf&lt;/code&gt;)&lt;/li&gt;
 &lt;/ul&gt;
+
 &lt;h5 id=&#34;search-using-time&#34; class=&#34;pt-2&#34;&gt;
-  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://buzee.co/learn-more/tips/#search-using-time&#34;&gt;Search using Time&lt;/a&gt;
-&lt;/h5&gt;
-&lt;p&gt;Simply mention the date/time period that you are looking for in your search. For example:&lt;/p&gt;
+  
+    Search using Time
+  
+&lt;/h5&gt;&lt;p&gt;Simply mention the date/time period that you are looking for in your search. For example:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;code&gt;&lt;strong&gt;last month&lt;/strong&gt; pdf invoice&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;&lt;code&gt;annual report ppt &lt;strong&gt;this year&lt;/strong&gt;&lt;/code&gt;&lt;/li&gt;
