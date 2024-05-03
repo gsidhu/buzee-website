@@ -17,6 +17,9 @@ layout = "single"
 ##### [Getting Started with Buzee](./getting-started)
 For your first steps to getting to love Buzee!
 
+##### [How To Guides](/categories/how-to/)
+For all your questions on how to do things with Buzee!
+
 ##### [Tips and Shortcuts](./tips)
 For getting the most out of Buzee!
 
