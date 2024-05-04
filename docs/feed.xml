@@ -8,76 +8,241 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2024 Buzilla Inc.</copyright>
-    <lastBuildDate>Fri, 03 May 2024 19:21:37 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 20:15:29 +0530</lastBuildDate>
     <atom:link rel="self" href="https://buzee.co/feed.xml" type="application/rss+xml" />
     <item>
-      <title>Getting Started with Buzee</title>
-      <link>https://buzee.co/docs/getting-started/</link>
-      <pubDate>Wed, 01 May 2024 21:51:26 +0530</pubDate>
-      <guid>https://buzee.co/docs/getting-started/</guid>
-      <description>&lt;p&gt;Before we begin, thank you for trying out Buzee! We are excited to hear how Buzee is helping you.&lt;/p&gt;
-&lt;p&gt;The first step to getting started with Buzee is to download and install it on your computer. You can download Buzee for &lt;a href=&#34;https://buzee.co/download#buzee-for-mac&#34;&gt;Mac&lt;/a&gt; or &lt;a href=&#34;https://buzee.co/download#buzee-for-windows&#34;&gt;Windows&lt;/a&gt; from this website.&lt;/p&gt;
+      <title>How can I quickly find a document from a few weeks ago without remembering its title?</title>
+      <link>https://buzee.co/posts/003-find-docs-without-title/</link>
+      <pubDate>Sat, 04 May 2024 20:15:29 +0530</pubDate>
+      <guid>https://buzee.co/posts/003-find-docs-without-title/</guid>
+      <description>&lt;p&gt;Ever found yourself in a frenzy trying to locate a document you worked on weeks ago, but all you remember are some keywords and a vague timeframe? Fear not, because Buzee has got your back!&lt;/p&gt;
+&lt;p&gt;Follow these simple steps to effortlessly track down that elusive file.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Launch Buzee&lt;/strong&gt;: Open up Buzee on your desktop and get ready to harness its search prowess.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Specify a Timeframe&lt;/strong&gt;: To narrow down your search to the relevant timeframe, add a rough timeline to your search. For instance, if you recall working on the document between August 2023 and September 2023, type &lt;code&gt;aug 2023 to sept 2023&lt;/code&gt; into the search bar.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;h5 id=&#34;_full-guide-coming-soon_&#34; class=&#34;pt-2&#34;&gt;
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
   
-    &lt;em&gt;Full Guide Coming Soon&lt;/em&gt;
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/003-01.png&#34; data-src=&#34;https://buzee.co/images/003-01.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen showing your documents from the timeframe specified in the search.&#34; /&gt;
   
-&lt;/h5&gt;&lt;p&gt;♥️&lt;/p&gt;
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      A timeframe search shows all files that were modified in that timeframe
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Keyword Search&lt;/strong&gt;: If timeframe search doesn&amp;rsquo;t work for you, input the keywords that you remember from the document. For example, if your document was related to community involvement, type &lt;code&gt;&amp;quot;community involvement&amp;quot;&lt;/code&gt; (including the double quotes) into the search bar.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/003-02.png&#34; data-src=&#34;https://buzee.co/images/003-02.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen showing your documents that contain the exact double quoted phrase specified in the search.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      A double quoted search tells Buzee to find that exact phrase
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Specify Timeframe with the Keywords&lt;/strong&gt;: To further narrow down your search, add the rough timeline before or after your keywords. Here, for instance, you would type &lt;code&gt;&amp;quot;community involvement&amp;quot; aug 2023 to sept 2023&lt;/code&gt; into the search bar.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/003-03.png&#34; data-src=&#34;https://buzee.co/images/003-03.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen showing your documents from the timeframe specified in the search that contain the exact double quoted phrase also specified in the search.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      You can mix a timeframe search with a double quoted search for extra precision
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Hit Enter and Voila!&lt;/strong&gt;: Press enter, and watch as Buzee sifts through your documents with lightning speed ⚡️. Your desired document should now appear in the search results, ready for you to access with just a click. (Or the press of the &lt;code&gt;Space&lt;/code&gt; bar if you are on a Mac!)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;With Buzee&amp;rsquo;s intuitive search functionality, locating documents based on vague recollections has never been easier. Say goodbye to the frustration of searching through countless &amp;ldquo;Untitled Document&amp;rdquo; files and hello to streamlined document retrieval.&lt;/p&gt;
+&lt;p&gt;Try it out today and witness the magic for yourself!&lt;/p&gt;
+&lt;p&gt;♥️&lt;/p&gt;
 </description>
     </item>
     <item>
-      <title>Tips and Shortcuts</title>
-      <link>https://buzee.co/docs/tips/</link>
-      <guid>https://buzee.co/docs/tips/</guid>
+      <title>How can I find all the Word files that I worked on this week?</title>
+      <link>https://buzee.co/posts/002-how-to-find-word-files-this-week/</link>
+      <pubDate>Fri, 03 May 2024 19:21:37 +0530</pubDate>
+      <guid>https://buzee.co/posts/002-how-to-find-word-files-this-week/</guid>
+      <description>&lt;p&gt;Are you tired of sifting through folders trying to find that one Word document you worked on last week? With Buzee, your document search just got a whole lot easier. Follow these simple steps to quickly locate all the Word files you&amp;rsquo;ve been working on this week.&lt;/p&gt;
+&lt;p&gt;Start by opening up Buzee using your preferred method. Whether it&amp;rsquo;s through a keyboard shortcut or clicking on the app icon, get Buzee up and running.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Utilize Recent Documents&lt;/strong&gt;: Buzee automatically displays the documents you&amp;rsquo;ve most recently worked on, making it easy to pick up where you left off. This feature saves you the hassle of digging through folders to find your latest files. You can also just press enter with a blank search query to see your recent documents. (Shh. Are you on a Mac? Try comparing this with the &lt;code&gt;Recent&lt;/code&gt; tab in Finder!)&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/002-01.png&#34; data-src=&#34;https://buzee.co/images/002-01.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen showing your recent documents.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      Buzee&amp;#39;s homepage shows your Recent Documents
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Search for This Week&lt;/strong&gt;: In the search bar at the top of the Buzee interface, type in &lt;code&gt;this week&lt;/code&gt; and hit enter. Buzee will now filter your documents to show only those that you&amp;rsquo;ve interacted with during the current week, starting from Monday.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/002-02.png&#34; data-src=&#34;https://buzee.co/images/002-02.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen showing all your documents from last week.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      It works the same way for last week!
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Filter by File Type&lt;/strong&gt;: To narrow down your search specifically to Word documents, simply add &lt;code&gt;&amp;quot;docx&amp;quot;&lt;/code&gt; (with or without the double quotes) to your query. Your search query should now look like &lt;code&gt;this week &amp;quot;docx&amp;quot;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/002-03.png&#34; data-src=&#34;https://buzee.co/images/002-03.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen showing all the PDF files from last week.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      Works the same way for PDFs or any other file type!
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Browse and Access&lt;/strong&gt;: Voila! Buzee will now present you with a list of all the Word files you&amp;rsquo;ve worked on this week. Browse through the results and click on any document to open it instantly.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;With Buzee&amp;rsquo;s powerful search capabilities, finding your important documents has never been easier. Say goodbye to endless folder navigation and hello to streamlined document management. Try it out today and experience the efficiency firsthand!&lt;/p&gt;
+&lt;p&gt;♥️&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Buzee goes Public!</title>
+      <link>https://buzee.co/posts/001-buzee-goes-public/</link>
+      <pubDate>Wed, 01 May 2024 21:51:26 +0530</pubDate>
+      <guid>https://buzee.co/posts/001-buzee-goes-public/</guid>
       <description>
-&lt;h5 id=&#34;keeping-buzee-updated&#34; class=&#34;pt-2&#34;&gt;
+&lt;h5 id=&#34;after-two-years-of-incubation-and-development-buzee-v01-is-out-in-public&#34; class=&#34;pt-2&#34;&gt;
   
-    Keeping Buzee Updated
+    After two years of incubation and development, Buzee v0.1 is out in public!
   
-&lt;/h5&gt;&lt;p&gt;Buzee automatically syncs data from your computer. You can always click the &lt;code&gt;Sync&lt;/code&gt; button in the status bar at the bottom to run it manually.&lt;/p&gt;
-&lt;p&gt;By default, Buzee scans files in your Documents, Downloads and Desktop folders. You can add more documents to search in Buzee using the &lt;code&gt;Add Documents&lt;/code&gt; option in the &lt;a href=&#34;https://buzee.co/settings&#34;&gt;Settings&lt;/a&gt;.&lt;/p&gt;
+&lt;/h5&gt;&lt;p&gt;It is life changing. You have to try it to know it.&lt;/p&gt;
+&lt;p&gt;I made Buzee to scratch my itch. I hope it helps you scratch yours too!&lt;/p&gt;
+&lt;div class=&#34;text-center&#34;&gt;
+  &lt;a href=&#34;https://buzee.co/download&#34; type=&#34;button&#34; class=&#34;btn btn-lg purple btn-outline-primary rounded-pill me-2&#34;&gt;Download now&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;h5 id=&#34;keyboard-shortcuts&#34; class=&#34;pt-2&#34;&gt;
-  
-    Keyboard Shortcuts
-  
-&lt;/h5&gt;&lt;ul&gt;
-&lt;li&gt;Press &lt;code&gt;⌘/Ctrl + Space&lt;/code&gt; anywhere to show/hide the app&lt;/li&gt;
-&lt;li&gt;In the app, press &lt;code&gt;⌘/Ctrl + F&lt;/code&gt; to go the search bar&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;Enter&lt;/code&gt; on a selected row to open the document&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;O&lt;/code&gt; on a selected row to open the folder containing the document&lt;/li&gt;
-&lt;li&gt;Press &lt;code&gt;Space&lt;/code&gt; on a selected row to quickly preview the document (Mac only)&lt;/li&gt;
-&lt;li&gt;Use the &lt;code&gt;↑ ↓&lt;/code&gt; arrow keys to move between search results&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;To easily access search with Buzee&amp;hellip;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;On a Mac, you can either click the Menubar icon at the top of your screen, or right-click the app’s icon in the Dock and choose &lt;code&gt;Options &amp;gt; Keep in Dock&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;On Windows, right-click the app’s icon in the Taskbar and then choose &lt;code&gt;Pin to Taskbar&lt;/code&gt;. You can also make the &lt;a href=&#34;https://support.microsoft.com/en-us/windows/how-to-use-the-taskbar-in-windows-0657a50f-0cc7-dbfd-ae6b-05020b195b07#ID0ERBBBBDDD-button&#34;&gt;app icon show in the system tray&lt;/a&gt; from Windows settings.&lt;/li&gt;
-&lt;/ul&gt;
 
-&lt;h5 id=&#34;includeexclude-from-search&#34; class=&#34;pt-2&#34;&gt;
+&lt;figure  class=&#34;center w-75&#34;&gt;
   
-    Include/Exclude from Search
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/001-01.png&#34; data-src=&#34;https://buzee.co/images/001-01.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s first screen shown during user onboarding. The heading says &amp;#39;Welcome to Buzee!&amp;#39;, followed by a line of text saying &amp;#39;Buzee helps you find your documents, effortlessly&amp;#39;, and a CTA button saying &amp;#39;Get started!&amp;#39;&#34; /&gt;
   
-&lt;/h5&gt;&lt;ul&gt;
-&lt;li&gt;Put quotes around keyword(s) to search for the exact phrase (like &lt;code&gt;&amp;quot;annual report&amp;quot;&lt;/code&gt;)&lt;/li&gt;
-&lt;li&gt;Put a hyphen in front of the keyword to exclude it from search (like &lt;code&gt;&amp;quot;annual report&amp;quot; -2022 -pdf&lt;/code&gt;)&lt;/li&gt;
-&lt;/ul&gt;
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      Welcome to Buzee!
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
 
-&lt;h5 id=&#34;search-using-time&#34; class=&#34;pt-2&#34;&gt;
+
+
+
+&lt;figure  class=&#34;center w-75&#34;&gt;
   
-    Search using Time
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/001-02.png&#34; data-src=&#34;https://buzee.co/images/001-02.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen.&#34; /&gt;
   
-&lt;/h5&gt;&lt;p&gt;Simply mention the date/time period that you are looking for in your search. For example:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;code&gt;&lt;strong&gt;last month&lt;/strong&gt; pdf invoice&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;annual report ppt &lt;strong&gt;this year&lt;/strong&gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;&lt;strong&gt;q2 2023 to q3 2023&lt;/strong&gt; retail report xlsx&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;prelim findings &lt;strong&gt;from 2017 to 2022&lt;/strong&gt;&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;cv docx &lt;strong&gt;march 2 2020 to aug 2021&lt;/strong&gt; -pdf&lt;/code&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;code&gt;scope study &lt;strong&gt;14/02/2015 to 10/08/2015&lt;/strong&gt;&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you want to use a Time keyword but don&amp;rsquo;t want to set the time filter, simply wrap it in quotes like this - &lt;code&gt;invoice &amp;quot;March 2022&amp;quot;&lt;/code&gt;&lt;/p&gt;
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      It looks familiar but works better
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;Buzee is available for both Mac and Windows. Download it right away:&lt;/p&gt;
+&lt;div class=&#34;text-center&#34;&gt;
+  &lt;a href=&#34;https://buzee.co/download#buzee-for-mac&#34; type=&#34;button&#34; class=&#34;btn btn-lg purple btn-outline-primary rounded-pill me-2 bi-apple&#34;&gt;&amp;nbsp;Mac&lt;/a&gt;
+  &lt;a href=&#34;https://buzee.co/download#buzee-for-windows&#34; type=&#34;button&#34; class=&#34;btn btn-lg purple btn-outline-primary rounded-pill me-2 bi-microsoft&#34;&gt;&amp;nbsp;Windows&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;♥️&lt;/p&gt;
 </description>
     </item>
   </channel>
