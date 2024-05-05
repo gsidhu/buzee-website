@@ -8,8 +8,121 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2024 Buzilla Inc.</copyright>
-    <lastBuildDate>Sat, 04 May 2024 20:15:29 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 17:10:59 +0530</lastBuildDate>
     <atom:link rel="self" href="https://buzee.co/feed.xml" type="application/rss+xml" />
+    <item>
+      <title>Introducing Icon Grid!</title>
+      <link>https://buzee.co/posts/004-introducing-icon-grid/</link>
+      <pubDate>Sun, 05 May 2024 17:10:59 +0530</pubDate>
+      <guid>https://buzee.co/posts/004-introducing-icon-grid/</guid>
+      <description>&lt;p&gt;Tired of squinting at tiny file names when browsing through your image-heavy folders? Say hello to Icon Grid view!&lt;/p&gt;
+&lt;p&gt;With Buzee v0.1.1, I am excited to introduce this new feature designed to enhance your browsing experience. And the best part? It was suggested by a user like you! 🎉&lt;/p&gt;
+
+&lt;h3 id=&#34;what-is-icon-grid-view&#34; class=&#34;pt-2&#34;&gt;
+  
+    &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://buzee.co/posts/004-introducing-icon-grid/#what-is-icon-grid-view&#34;&gt;
+      What is Icon Grid View?
+    &lt;/a&gt;
+  
+&lt;/h3&gt;&lt;p&gt;Icon Grid view is a fresh perspective on how you interact with your files. Instead of relying solely on file names, you now have the option to view your documents as visually appealing thumbnails. This makes it significantly easier to identify and locate specific files, especially when dealing with image-heavy folders.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-access-icon-grid-view&#34; class=&#34;pt-2&#34;&gt;
+  
+    &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://buzee.co/posts/004-introducing-icon-grid/#how-to-access-icon-grid-view&#34;&gt;
+      How to Access Icon Grid View?
+    &lt;/a&gt;
+  
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Click the Icon Grid Button&lt;/strong&gt;: Simply locate the Icon Grid button conveniently located in the Status Bar within the Buzee interface.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/004-01.png&#34; data-src=&#34;https://buzee.co/images/004-01.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen showing your documents from the timeframe specified in the search.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      A timeframe search shows all files that were modified in that timeframe
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Enjoy Visual Thumbnails&lt;/strong&gt;: Once you click on the Icon Grid button, watch as your file icons transform into vibrant thumbnails, providing a visual representation of each document.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/004-02.png&#34; data-src=&#34;https://buzee.co/images/004-02.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen showing your documents from the timeframe specified in the search.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      A timeframe search shows all files that were modified in that timeframe
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;switching-back-to-list-view&#34; class=&#34;pt-2&#34;&gt;
+  
+    &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://buzee.co/posts/004-introducing-icon-grid/#switching-back-to-list-view&#34;&gt;
+      Switching Back to List View
+    &lt;/a&gt;
+  
+&lt;/h3&gt;&lt;p&gt;Prefer the classic List View for your document browsing needs? No problem! You can easily switch back to List View at any time using the same button in the Status Bar. Enjoy the flexibility to toggle between views based on your preferences and workflow requirements.&lt;/p&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/004-03.png&#34; data-src=&#34;https://buzee.co/images/004-03.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s search results screen showing your documents from the timeframe specified in the search.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      A timeframe search shows all files that were modified in that timeframe
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+
+&lt;h3 id=&#34;why-icon-grid-view-matters&#34; class=&#34;pt-2&#34;&gt;
+  
+    &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;https://buzee.co/posts/004-introducing-icon-grid/#why-icon-grid-view-matters&#34;&gt;
+      Why Icon Grid View Matters?
+    &lt;/a&gt;
+  
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Efficiency&lt;/strong&gt;: Quickly scan through your documents and identify the one you need at a glance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visual Appeal&lt;/strong&gt;: Enjoy a more visually engaging browsing experience, particularly beneficial for image-centric folders.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;User-Friendly&lt;/strong&gt;: Simplify document management for users of all levels with an intuitive interface.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Say goodbye to endless scrolling and hello to streamlined document browsing with Icon Grid view in Buzee.&lt;/p&gt;
+&lt;p&gt;Try it out today and discover a familiar way to interact with your files!&lt;/p&gt;
+&lt;p&gt;♥️&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>How can I quickly find a document from a few weeks ago without remembering its title?</title>
       <link>https://buzee.co/posts/003-find-docs-without-title/</link>
