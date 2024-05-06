@@ -8,7 +8,7 @@ description: "Call Buzee using a shortcut to find your files even faster. Learn 
 categories: ["how-to", "docs", "announcements"]
 author: "Buzee"
 ---
-"Efficiency Uninterrupted: Customize Your Buzee Shortcut!"
+
 Buzee is your go-to solution for lightning-fast file searches, but what if you could make it even faster? 
 
 With Buzee's customizable global shortcut feature, you can call Buzee with a simple keyboard shortcut, eliminating the need to navigate through menus or search for icons on your desktop.
