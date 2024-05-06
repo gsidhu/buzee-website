@@ -21,8 +21,6 @@ Buzee for Mac is available for both Apple Silicon (after 2020) and Intel (before
 </div>
 </div>
 
-<!-- You can also download from the [ Mac App Store](). -->
-
 ### Buzee for Windows
 Buzee for Windows is available for Windows 7 and later.
 

@@ -19,6 +19,10 @@
   font-weight: lighter;
 }
 
+b, strong {
+  font-weight: bold !important;
+}
+
 :root {
   /* --hot-pink: #ff0081; */
   --hot-pink: #ED7253;

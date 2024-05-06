@@ -8,8 +8,73 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2024 Buzilla Inc.</copyright>
-    <lastBuildDate>Sun, 05 May 2024 17:10:59 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 20:32:44 +0530</lastBuildDate>
     <atom:link rel="self" href="https://buzee.co/feed.xml" type="application/rss+xml" />
+    <item>
+      <title>Efficiency Uninterrupted: Customize Your Buzee Shortcut!</title>
+      <link>https://buzee.co/posts/005-buzee-global-shortcut/</link>
+      <pubDate>Mon, 06 May 2024 20:32:44 +0530</pubDate>
+      <guid>https://buzee.co/posts/005-buzee-global-shortcut/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Efficiency Uninterrupted: Customize Your Buzee Shortcut!&amp;rdquo;
+Buzee is your go-to solution for lightning-fast file searches, but what if you could make it even faster?&lt;/p&gt;
+&lt;p&gt;With Buzee&amp;rsquo;s customizable global shortcut feature, you can call Buzee with a simple keyboard shortcut, eliminating the need to navigate through menus or search for icons on your desktop.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s why it&amp;rsquo;s a game-changer:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Instant Access&lt;/strong&gt;: Buzee&amp;rsquo;s global shortcut feature allows you to open the app with lightning speed, eliminating the need to navigate through menus or search for icons on your desktop. With just a quick key combination, you can have Buzee up and running in an instant, ready to help you find your files faster than ever. The default shortcut is &lt;code&gt;Option/Alt + Space&lt;/code&gt;, but you can easily customize it to suit your preferences.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Personalized Experience&lt;/strong&gt;: We understand that every user&amp;rsquo;s preferences are different. That&amp;rsquo;s why we&amp;rsquo;ve made it easy for you to customize your Buzee shortcut to suit your needs. Whether you prefer a different key combination or the default shortcut clashes with another app on your computer, Buzee gives you the flexibility to choose what works best for you.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Simple Setup&lt;/strong&gt;: Changing your Buzee shortcut is a breeze. Simply head to the Settings menu and click on the shortcut in the &amp;ldquo;Allow Global Shortcut&amp;rdquo; section.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/005-01.png&#34; data-src=&#34;https://buzee.co/images/005-01.png&#34; title=&#34;A screenshot of Buzee&amp;#39;s settings page showing the &amp;#39;Allow Global Shortcut&amp;#39; setting with the current shortcut highlighted.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      Click on the displayed shortcut on the Settings page to change the global shortcut
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;From there, you&amp;rsquo;ll be presented with a modal where you can set your preferred modifier and key combination. With options for up to two modifiers, you can tailor your shortcut to fit seamlessly into your existing workflow.&lt;/p&gt;
+
+
+&lt;figure  class=&#34;center w-50&#34;&gt;
+  
+      &lt;img class=&#34;blog-image&#34;  src=&#34;https://buzee.co/images/005-02.png&#34; data-src=&#34;https://buzee.co/images/005-02.png&#34; title=&#34;A screenshot of the &amp;#39;Change Global Shortcut&amp;#39; modal in Buzee.&#34; /&gt;
+  
+  
+  &lt;figcaption class=&#39;blog-image-caption text-secondary small&#39;&gt;
+      
+      &lt;p&gt;
+      Set your new shortcut from the displayed modal
+      
+          
+      
+      &lt;/p&gt; 
+  &lt;/figcaption&gt;
+  
+&lt;/figure&gt;
+
+
+&lt;p&gt;Don&amp;rsquo;t let inefficiency slow you down. Use a shortcut to call Buzee and keep your work flow going uninterrupted!&lt;/p&gt;
+&lt;p&gt;♥️&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Introducing Icon Grid!</title>
       <link>https://buzee.co/posts/004-introducing-icon-grid/</link>
