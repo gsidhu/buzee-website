@@ -1,7 +1,6 @@
 baseURL: https://buzee.co
 title: Buzee
 copyright: Copyright © 2024 Buzilla Inc.
-paginate: 3
 languageCode: en
 theme: hugo-flex
 DefaultContentLanguage: en
@@ -60,7 +59,7 @@ params:
   description: "A search app for regular people. Find your docs, effortlessly."
   favicon: true
   divider: \2500\2500\2500
-  footer: Copyright © 2024 Buzilla Inc.
+  footer: Copyright © 2025 Buzilla Inc.
   noClasses: false
   katex: ""
   linkicons: hover

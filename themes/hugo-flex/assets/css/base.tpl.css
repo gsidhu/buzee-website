@@ -310,5 +310,5 @@ kbd:has(kbd) {
 }
 
 #app-screenshot img {
-  clip-path: inset(2px);
+  clip-path: inset(1px);
 }
