@@ -1,4 +1,4 @@
 # Buzee
 Website for Buzee
 
-Visit [https://buzee.co](https://buzee.co) to learn more.
+Visit [https://buzee.thatgurjot.com](https://buzee.thatgurjot.com) to learn more.
